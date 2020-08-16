@@ -11,3 +11,4 @@ public class RandApp {
         }
     }
 }
+// Dit kon veel simpeler. Neem een keer kijkje in repo van Wouter of Thomas bijv.
