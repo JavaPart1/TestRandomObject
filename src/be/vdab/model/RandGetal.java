@@ -2,6 +2,10 @@ package be.vdab.model;
 
 import java.util.Random;
 
+/*
+Geen NL!
+*/
+
 public class RandGetal extends Random {
     private int waarde;
     private String tekst;
